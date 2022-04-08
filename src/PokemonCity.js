@@ -15,7 +15,7 @@ setCity(event.target.value.toLowerCase());
         onChange={updateCity}
       />
       </form>
-      <p>Welcome to the city of {city}</p>
+      <p>WELCOME to the city of {city}</p>
     </div>
   );
 }
